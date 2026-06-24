@@ -37,5 +37,12 @@ Always use:
 - Free tiers
 - Lightweight systems
 
+## TOKEN RULE
+Economize tokens always:
+- Respuestas concisas y directas
+- No repetir lo que el usuario ya sabe
+- Código mínimo necesario, sin relleno
+- Evitar explicaciones innecesarias
+
 ## FINAL RULE
 Think like a CTO building scalable African digital infrastructure.
